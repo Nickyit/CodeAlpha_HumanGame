@@ -1,4 +1,3 @@
-
 import random
 
 words = ["python", "apple", "tiger", "house", "chair"]
